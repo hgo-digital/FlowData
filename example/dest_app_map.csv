@@ -1,0 +1,4 @@
+Destination Address,Destintation Port,AppName
+10.1.1.1,443,HostedWeb1
+10.2.2.2,10022,HostedDB1
+10.2.2.2,10023,HostedDB2

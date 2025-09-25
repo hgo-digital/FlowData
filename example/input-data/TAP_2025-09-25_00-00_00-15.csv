@@ -1,0 +1,5 @@
+Source Address,Destination Address,Application,Destination Port,Total Volume,Dest to Src Volume,Src to Dest Volume
+10.1.1.1,10.2.2.2,TCP_OTHER,10022,1000,500,500
+10.2.2.2,8.8.8.8,DNS,53,200,100,100
+192.168.1.15,10.1.1.1,HTTPS,443,2000,1500,500
+192.168.1.16,10.1.1.1,HTTPS,443,2000,1500,500

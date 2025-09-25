@@ -1,0 +1,4 @@
+Address,Hostname
+10.1.1.1,SERVER1
+10.2.2.2,SERVER2
+192.168.1.0/24,Site1-LAN
